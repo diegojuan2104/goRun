@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=TableroPrincipal
+comment1.params=
+comment1.target=TableroPrincipal()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ iniciarJuego()
+comment4.params=
+comment4.target=void\ agregarTextoAPantalla()
+comment5.params=
+comment5.target=void\ reproducirSonido()
+comment6.params=
+comment6.target=void\ verInstrucciones()
+comment6.text=R23\ -\ Ver\ instrucciones\ *
+numComments=7
